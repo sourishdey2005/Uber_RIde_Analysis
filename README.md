@@ -1,4 +1,4 @@
-# Uber_RIde_Analysis
+# Uber_Ride_Analysis
 Uber Ride Analysis
 
 
@@ -13,7 +13,7 @@ Uber Ride Analysis
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-ff69b4?style=for-the-badge)
 
 A **comprehensive, enterprise-grade data analytics platform** for Uber ride-sharing operations in 2024.  
-This project features **400+ unique exploratory data analyses (EDAs)** powered by advanced **machine learning, statistical modeling, optimization, and visualization techniques**.
+This project features **50+ unique exploratory data analyses (EDAs)** powered by advanced **machine learning, statistical modeling, optimization, and visualization techniques**.
 
 ---
 
