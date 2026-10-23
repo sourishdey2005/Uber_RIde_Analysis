@@ -12,7 +12,8 @@
 <br/>
 
 <img width="960" alt="Uber Analytics Executive Dashboard" src="https://github.com/user-attachments/assets/21aed704-14f8-4042-8561-36e05675a060" />
-<img width="1229" height="690" alt="image" src="https://github.com/user-attachments/assets/f2a70e3e-a162-4340-a5c9-e6ea1182619d" />
+<img width="1242" height="704" alt="image" src="https://github.com/user-attachments/assets/85fc6c3f-1ab6-40c0-b999-f6d8aebcfbee" />
+
 
 
 </div>
